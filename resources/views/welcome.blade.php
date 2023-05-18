@@ -518,7 +518,7 @@
             <!--
     - #FOOTER
   -->
-            {{--
+
             <footer>
                 <div class="container">
 
@@ -680,7 +680,7 @@
                     </div>
 
                 </div>
-            </footer> --}}
+            </footer>
 
 
 
