@@ -519,7 +519,7 @@
     - #FOOTER
   -->
 
-            <footer>
+            {{-- <footer>
                 <div class="container">
 
                     <div class="card footer">
@@ -682,7 +682,7 @@
                 </div>
             </footer>
 
-
+            --}}
 
 
 
